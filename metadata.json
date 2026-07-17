@@ -1,0 +1,6 @@
+{
+  "name": "Esports Tournament Score System",
+  "description": "ระบบบันทึกคะแนนและวิเคราะห์ผังสายแข่งขันทัวร์นาเมนต์เกม RoV และ Free Fire พร้อมคำนวณสถิติอัตโนมัติและโครงสร้างเชื่อมโยงฐานข้อมูล Firebase Firestore",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
